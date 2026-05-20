@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED BUBBLE HEADER SVG -->
+<!-- ANIMATED BUBBLE HEADER SVG (avatar embedded inside) -->
 <img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/header.svg" width="100%" alt="Header"/>
-
-<!-- AVATAR -->
-<img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/avatar.png" width="120" style="border-radius:50%;" alt="Sri Sai Sasank"/>
-
-<h2>Sri Sai Sasank Dasam</h2>
-<h4>🤖 Aspiring Software & AI Engineer &nbsp;|&nbsp; 📊 Data Scientist &nbsp;|&nbsp; 🧠 NLP Enthusiast</h4>
 
 <br/>
 
