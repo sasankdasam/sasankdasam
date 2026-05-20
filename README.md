@@ -84,18 +84,29 @@
 <td width="2%"></td>
 <td width="30%" valign="top" align="center">
 
-**🌐 Languages I Code In**
+**🗣️ Languages I Speak**
 
 &nbsp;
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+🇮🇳 **Telugu** — Native
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+🇮🇳 **Hindi** — Fluent
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+🌍 **English** — Professional
+
+&nbsp;
+
+**🎯 2025 Goals**
+
+&nbsp;
+
+🚀 Land a Data Science role
+
+🧠 Master Deep Learning
+
+📜 Earn Cloud certification
+
+🌐 Contribute to Open Source
 
 </td>
 </tr>
@@ -308,5 +319,13 @@
 > *"Passionate about solving real-world problems through scalable and impactful technology."*
 >
 > — Sri Sai Sasank Dasam
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+explore+my+repositories+%F0%9F%93%82;Let%27s+connect+and+build+something+amazing+together+%F0%9F%9A%80;Have+a+wonderful+day!+%E2%9C%A8+%F0%9F%92%99" alt="Thank You Scroll" />
 
 </div>
