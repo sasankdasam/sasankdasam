@@ -1,23 +1,38 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sri%20Sai%20Sasank%20Dasam&fontSize=45&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20%26%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&descColor=a0aec0"/>
+<!-- HEADER -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  Hi, I'm Sri Sai Sasank Dasam
+</h1>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Data-Driven+Solutions+%F0%9F%A4%96;NLP+%7C+Machine+Learning+%7C+Full-Stack+Dev+%F0%9F%9A%80;Turning+Data+into+Insight+%F0%9F%93%8A;Open+to+Opportunities+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<h3>🤖 Aspiring Software & AI Engineer &nbsp;|&nbsp; 📊 Data Scientist &nbsp;|&nbsp; 🧠 NLP Enthusiast</h3>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sasankdasam&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/sasank-dasam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sasankdasam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/sasankdasam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white"/>
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Data-Driven+Solutions+%F0%9F%A4%96;NLP+%7C+Machine+Learning+%7C+Full-Stack+Dev+%F0%9F%9A%80;Turning+Data+into+Insight+%F0%9F%93%8A;Open+to+Opportunities+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=sasankdasam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/sasank-dasam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:sasankdasam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.kaggle.com/sasankdasam"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/SASI_070/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat&logo=checkmarx&logoColor=white"/>
+
+<br/><br/>
+
+<!-- ANIMATED BANNER GIF -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 </div>
 
@@ -30,14 +45,14 @@ class SriSaiSasank:
     def __init__(self):
         self.name       = "Sri Sai Sasank Dasam"
         self.role       = "Aspiring Software & AI Engineer"
-        self.university = "BML Munjal University (B.Tech CSE, 2023–Present)"
+        self.university = "BML Munjal University (B.Tech CSE, 2023-Present)"
         self.gpa        = "7.95 / 10.0"
-        self.location   = "Gurugram, Haryana 🇮🇳"
+        self.location   = "Gurugram, Haryana IN"
         self.email      = "sasankdasam@gmail.com"
 
     def currently(self):
         return [
-            "📚 Building intelligent, scalable AI/ML systems",
+            "🟩 Building intelligent, scalable AI/ML systems",
             "🔍 Deep-diving into NLP & Data Science",
             "📈 Exploring Financial Markets & Quantitative Analysis",
             "🤝 Open to internships, collaborations & projects",
@@ -48,7 +63,7 @@ class SriSaiSasank:
             "🏏 Cricket Enthusiast",
             "🧩 Logic Puzzles Lover",
             "📰 Global News & Current Affairs follower",
-            "💹 Tracks Financial Trends daily",
+            "📊 Tracks Financial Trends daily",
         ]
 
 me = SriSaiSasank()
@@ -61,7 +76,8 @@ print(me.currently())
 
 <div align="center">
 
-### 💻 Programming Languages
+**💻 Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -70,14 +86,16 @@ print(me.currently())
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / Data Science
+**🤖 AI / Data Science**
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8E24AA?style=for-the-badge&logo=spacy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP%20%26%20Sentiment%20Analysis-8E24AA?style=for-the-badge&logo=spacy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### 🗄️ Databases & Tools
+**🗄️ Databases & Tools**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -91,24 +109,19 @@ print(me.currently())
 
 ## 💼 Work Experience
 
-<table>
-  <tr>
-    <td><b>🏢 Organization</b></td>
-    <td><b>📌 Role</b></td>
-    <td><b>📅 Duration</b></td>
-    <td><b>📍 Location</b></td>
-  </tr>
-  <tr>
-    <td><b>INNODATATICS</b></td>
-    <td>Data Scientist Intern</td>
-    <td>June 2025 – July 2025</td>
-    <td>Hyderabad, India</td>
-  </tr>
-</table>
+<div align="center">
 
-> 🔹 Built data-driven analytics pipelines using **Python, REST APIs & MongoDB**  
-> 🔹 Developed interactive dashboards for insight visualization  
-> 🔹 Performed data preprocessing, integration & exploratory data analysis  
+| 🏢 Organization | 📌 Role | 📅 Duration | 📍 Location |
+|---|---|---|---|
+| **INNODATATICS** | Data Scientist Intern | June 2025 – July 2025 | Hyderabad, India |
+
+</div>
+
+> 🔹 Built data-driven analytics pipelines using **Python, REST APIs & MongoDB**
+>
+> 🔹 Developed interactive dashboards for insight visualization
+>
+> 🔹 Performed data preprocessing, integration & exploratory data analysis
 
 ---
 
@@ -118,10 +131,10 @@ print(me.currently())
 
 | 🗂️ Project | 🔧 Tech | 📝 Description |
 |---|---|---|
-| 🌐 **Social Media Analysis (Reddit API)** | Python, NLP, MongoDB | Built NLP pipeline processing **5,000+ Reddit posts** for sentiment & trend analysis |
-| 🧴 **Cosmetic Ingredient Risk Indicator** | OCR, NLP, AI | AI-powered system detecting ingredient risks using OCR + NLP similarity analysis |
+| 🌐 **Social Media Analysis (Reddit API)** | Python, NLP, MongoDB | NLP pipeline processing **5,000+ Reddit posts** for sentiment & trend analysis |
+| 🧴 **Cosmetic Ingredient Risk Indicator** | OCR, NLP, AI | AI-powered system detecting ingredient risks using OCR + NLP similarity |
 | 📈 **Stock Market Prediction (BAJFINANCE)** | Python, ML | Integrated sentiment analysis with technical indicators for price forecasting |
-| 🎉 **Elegance & Co. – Event Management** | HTML, CSS, JS | User-centric platform simplifying wedding & birthday event coordination |
+| 🎉 **Elegance & Co. — Event Management** | HTML, CSS, JS | User-centric platform simplifying wedding & birthday event coordination |
 
 </div>
 
@@ -130,20 +143,22 @@ print(me.currently())
 ## 🎓 Education
 
 ```
-🎓 BML MUNJAL UNIVERSITY
-   └── B.Tech in Computer Science | 2023 – Present
-   └── Cumulative GPA: 7.95 / 10.0
-   └── Gurugram, Haryana
+🎓  BML MUNJAL UNIVERSITY
+    └── B.Tech in Computer Science | 2023 – Present
+    └── Cumulative GPA: 7.95 / 10.0
+    └── Gurugram, Haryana
 
-📚 SRI CHAITANYA JUNIOR COLLEGE
-   └── 12th Standard | 2021 – 2023
-   └── Percentage: 95 / 100
-   └── Vijayawada, Andhra Pradesh
+📚  SRI CHAITANYA JUNIOR COLLEGE
+    └── 12th Standard | 2021 – 2023
+    └── Percentage: 95 / 100
+    └── Vijayawada, Andhra Pradesh
 ```
 
 ---
 
 ## 📜 Certifications
+
+<div align="center">
 
 | 🏅 Certification | 🏛️ Issuer | 📅 Date |
 |---|---|---|
@@ -151,17 +166,43 @@ print(me.currently())
 | Python (Basic) Skill Certification | HackerRank | Jan 2025 |
 | Student Partner Program | Internshala | Jan 2025 |
 
+</div>
+
 ---
 
 ## 🏆 Achievements & Leadership
 
 <div align="center">
 
-🥇 **Kaggle Python Coder Badge** (2025) — Demonstrated Python proficiency on Kaggle  
-📅 **1 Year Active Contributor on Kaggle** (2024) — Consistent open data contributions  
-🍴 **Event Management Lead** — Culinary Club, BML Munjal University  
-🏛️ **President** — School Student Council (2020)  
-💻 **Hackathon Participant** — University-level competitive programming events  
+🥇 **Kaggle Python Coder Badge** (2025) — Demonstrated Python proficiency on Kaggle
+
+📅 **1 Year Active Contributor on Kaggle** (2024) — Consistent open data contributions
+
+🍴 **Event Management Lead** — Culinary Club, BML Munjal University
+
+🏛️ **President** — School Student Council (2020)
+
+💻 **Hackathon Participant** — University-level competitive programming events
+
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-SASI__070-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SASI_070/)
+
+<img src="https://leetcard.jacoblin.cool/SASI_070?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats Card" />
+
+<br/>
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📊 Total Submissions | ✅ Acceptance |
+|:---:|:---:|:---:|:---:|:---:|
+| 7 / 944 | 4 / 2057 | 0 / 934 | 29 | **75.86%** |
+
+> 💡 Primary Language: **Java** &nbsp;|&nbsp; 🏆 Active Days: **4** &nbsp;|&nbsp; 🔥 Max Streak: **2**
 
 </div>
 
@@ -171,16 +212,25 @@ print(me.currently())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasankdasam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankdasam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sasankdasam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00c8ff&icon_color=00c8ff&text_color=c9d1d9&bg_color=0d1117" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasankdasam&layout=compact&theme=tokyonight&hide_border=true&title_color=00c8ff&text_color=c9d1d9&bg_color=0d1117" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasankdasam&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
+<div align="center">
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sasankdasam&theme=tokyonight&hide_border=true&background=0d1117&ring=00c8ff&fire=ff6b6b&currStreakLabel=00c8ff" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasankdasam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasankdasam&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c8ff&line=00c8ff&point=ffffff&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -190,26 +240,22 @@ print(me.currently())
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sasank-dasam/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasank-dasam/)
 &nbsp;
-<a href="mailto:sasankdasam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasankdasam@gmail.com)
 &nbsp;
-<a href="https://www.kaggle.com/sasankdasam">
-  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sasankdasam)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-SASI__070-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SASI_070/)
 
-<br/><br/>
+<br/>
 
 > *"Passionate about solving real-world problems through scalable and impactful technology."*
+>
 > — Sri Sai Sasank Dasam
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
+
 </div>
-
----
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
