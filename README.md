@@ -1,17 +1,13 @@
 <div align="center">
 
-<!-- AVATAR + NAME SIDE BY SIDE -->
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="160" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/avatar.png" width="140" style="border-radius: 50%;" alt="Sri Sai Sasank"/>
-</td>
-<td align="left" valign="middle" style="padding-left: 20px;">
-  <h1>&nbsp;Hi 👋, I'm Sri Sai Sasank Dasam</h1>
-  <h3>&nbsp;🤖 Aspiring Software & AI Engineer &nbsp;|&nbsp; 📊 Data Scientist &nbsp;|&nbsp; 🧠 NLP Enthusiast</h3>
-</td>
-</tr>
-</table>
+<!-- ANIMATED BUBBLE HEADER SVG -->
+<img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/header.svg" width="100%" alt="Header"/>
+
+<!-- AVATAR -->
+<img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/avatar.png" width="120" style="border-radius:50%;" alt="Sri Sai Sasank"/>
+
+<h2>Sri Sai Sasank Dasam</h2>
+<h4>🤖 Aspiring Software & AI Engineer &nbsp;|&nbsp; 📊 Data Scientist &nbsp;|&nbsp; 🧠 NLP Enthusiast</h4>
 
 <br/>
 
@@ -94,17 +90,18 @@
 <td width="2%"></td>
 <td width="30%" valign="top" align="center">
 
-**🌐 Languages I Speak**
+**🌐 Languages I Code In**
 
 &nbsp;
 
-🐍 Python &nbsp; ☕ Java
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-⚙️ C++ &nbsp; 🌐 JavaScript
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🗄️ SQL &nbsp; 📄 HTML/CSS
-
-🧠 Machine Language 😄
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
 </tr>
@@ -225,6 +222,7 @@
 
 | 🏅 Certification | 🏛️ Issuer | 📅 Date |
 |---|---|---|
+| [Start Writing Prompts like a Pro](https://coursera.org/verify/Y794R6PL7BQ8) | Google (Coursera) | Feb 2026 |
 | Financial Markets & Risk Management | Yale University (Coursera) | Aug – Dec 2025 |
 | Python (Basic) Skill Certification | HackerRank | Jan 2025 |
 | Student Partner Program | Internshala | Jan 2025 |
