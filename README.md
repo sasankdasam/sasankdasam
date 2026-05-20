@@ -89,15 +89,15 @@
 
 &nbsp;
 
-💬 Telugu — Native
-💬 Hindi — Fluent
-💬 English — Professional
+💬 Telugu — Native <\n>
+💬 Hindi — Fluent <\n>
+💬 English — Professional 
 
 &nbsp;
 
-🚀 Land a Data Science role
-🧠 Master Deep Learning
-📜 Earn Cloud certification
+🚀 Land a Data Science role <\n>
+🧠 Master Deep Learning <\n>
+📜 Earn Cloud certification <\n>
 🌐 Contribute to Open Source
 
 </td>
