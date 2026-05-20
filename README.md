@@ -42,15 +42,16 @@
 
 | 🎓 Degree | 📍 Location | 💡 GPA | 📧 Contact |
 |:---:|:---:|:---:|:---:|
-| B.Tech CSE @ BML Munjal University | Gurugram, Haryana 🇮🇳 | 7.95 / 10.0 | sasankdasam@gmail.com |
+| B.Tech CSE @ BML Munjal University | Gurugram, Haryana | 7.95 / 10.0 | sasankdasam@gmail.com |
 
 </div>
 
 <br/>
 
-<table border="0" width="100%">
+<div align="center">
+<table border="0" width="96%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="center" style="padding:12px;">
 
 **🚀 Currently Working On**
 
@@ -60,13 +61,13 @@
 
 🔍 Deep-diving into **NLP & Data Science**
 
-📈 Exploring **Financial Markets & Quant Analysis**
+📈 Exploring **Financial Markets & Quant**
 
 🤝 Open to **internships & collaborations**
 
 </td>
-<td width="2%"></td>
-<td width="33%" valign="top" align="center">
+<td width="1px" bgcolor="#30363d"></td>
+<td width="33%" valign="top" align="center" style="padding:12px;">
 
 **⚡ Fun Facts About Me**
 
@@ -81,36 +82,28 @@
 📊 Tracks Financial Trends daily
 
 </td>
-<td width="2%"></td>
-<td width="30%" valign="top" align="center">
+<td width="1px" bgcolor="#30363d"></td>
+<td width="33%" valign="top" align="center" style="padding:12px;">
 
-**🗣️ Languages I Speak**
-
-&nbsp;
-
-🇮🇳 **Telugu** — Native
-
-🇮🇳 **Hindi** — Fluent
-
-🌍 **English** — Professional
+**🗣️ Languages & Goals**
 
 &nbsp;
 
-**🎯 2025 Goals**
+💬 Telugu — Native
+💬 Hindi — Fluent
+💬 English — Professional
 
 &nbsp;
 
 🚀 Land a Data Science role
-
 🧠 Master Deep Learning
-
 📜 Earn Cloud certification
-
 🌐 Contribute to Open Source
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
