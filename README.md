@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- HEADER -->
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  Hi, I'm Sri Sai Sasank Dasam
-</h1>
-
-<h3>🤖 Aspiring Software & AI Engineer &nbsp;|&nbsp; 📊 Data Scientist &nbsp;|&nbsp; 🧠 NLP Enthusiast</h3>
+<!-- AVATAR + NAME SIDE BY SIDE -->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="160" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/avatar.png" width="140" style="border-radius: 50%;" alt="Sri Sai Sasank"/>
+</td>
+<td align="left" valign="middle" style="padding-left: 20px;">
+  <h1>&nbsp;Hi 👋, I'm Sri Sai Sasank Dasam</h1>
+  <h3>&nbsp;🤖 Aspiring Software & AI Engineer &nbsp;|&nbsp; 📊 Data Scientist &nbsp;|&nbsp; 🧠 NLP Enthusiast</h3>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -29,46 +34,74 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat&logo=checkmarx&logoColor=white"/>
 
-<br/><br/>
-
-<!-- ANIMATED BANNER GIF -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧑 Who Am I?
+
+> 🎓 **B.Tech CSE** @ BML Munjal University *(2023 – Present)*
+> 
+> 📍 **Location:** Gurugram, Haryana, India
+> 
+> 💡 **GPA:** 7.95 / 10.0
+> 
+> 📧 **Email:** sasankdasam@gmail.com
+
+---
+
+### 🚀 What I'm Doing
+
+- 🟩 Building intelligent, scalable **AI/ML systems**
+- 🔍 Deep-diving into **NLP & Data Science**
+- 📈 Exploring **Financial Markets & Quant Analysis**
+- 🤝 Open to **internships, collaborations & projects**
+
+---
+
+### ⚡ Fun Facts
+
+- 🏏 Cricket Enthusiast
+- 🧩 Logic Puzzles Lover
+- 📰 Global News & Current Affairs follower
+- 📊 Tracks Financial Trends daily
+
+</td>
+<td width="45%" valign="top" align="center">
+
 ```python
 class SriSaiSasank:
-    def __init__(self):
-        self.name       = "Sri Sai Sasank Dasam"
-        self.role       = "Aspiring Software & AI Engineer"
-        self.university = "BML Munjal University (B.Tech CSE, 2023-Present)"
-        self.gpa        = "7.95 / 10.0"
-        self.location   = "Gurugram, Haryana IN"
-        self.email      = "sasankdasam@gmail.com"
+  name       = "Sri Sai Sasank Dasam"
+  role       = "AI & Software Engineer"
+  university = "BML Munjal University"
+  gpa        = "7.95 / 10.0"
+  location   = "Gurugram, India 🇮🇳"
 
-    def currently(self):
-        return [
-            "🟩 Building intelligent, scalable AI/ML systems",
-            "🔍 Deep-diving into NLP & Data Science",
-            "📈 Exploring Financial Markets & Quantitative Analysis",
-            "🤝 Open to internships, collaborations & projects",
-        ]
+  skills = {
+    "AI/ML" : ["Python","NLP","ML"],
+    "Web"   : ["HTML","CSS","JS"],
+    "DB"    : ["MongoDB","SQL"],
+    "Tools" : ["Git","VS Code"],
+  }
 
-    def fun_facts(self):
-        return [
-            "🏏 Cricket Enthusiast",
-            "🧩 Logic Puzzles Lover",
-            "📰 Global News & Current Affairs follower",
-            "📊 Tracks Financial Trends daily",
-        ]
+  def say_hi(self):
+    print("Thanks for visiting! 👋")
+    print("Let's build something")
+    print("amazing together 🚀")
 
 me = SriSaiSasank()
-print(me.currently())
+me.say_hi()
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -142,17 +175,40 @@ print(me.currently())
 
 ## 🎓 Education
 
-```
-🎓  BML MUNJAL UNIVERSITY
-    └── B.Tech in Computer Science | 2023 – Present
-    └── Cumulative GPA: 7.95 / 10.0
-    └── Gurugram, Haryana
+<div align="center">
 
-📚  SRI CHAITANYA JUNIOR COLLEGE
-    └── 12th Standard | 2021 – 2023
-    └── Percentage: 95 / 100
-    └── Vijayawada, Andhra Pradesh
-```
+<table border="0" width="90%">
+<tr>
+<td width="50%" align="center">
+
+### 🏛️ BML Munjal University
+
+<img src="https://img.shields.io/badge/B.Tech%20CSE-2023%20–%20Present-00C8FF?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+
+📍 Gurugram, Haryana
+
+📊 **Cumulative GPA:** `7.95 / 10.0`
+
+🏫 School of Engineering & Technology
+
+</td>
+<td width="50%" align="center">
+
+### 📚 Sri Chaitanya Junior College
+
+<img src="https://img.shields.io/badge/12th%20Standard-2021%20–%202023-8E24AA?style=for-the-badge&logoColor=white"/>
+
+📍 Vijayawada, Andhra Pradesh
+
+📊 **Percentage:** `95 / 100`
+
+🎯 Science Stream — MPC
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -253,9 +309,5 @@ print(me.currently())
 > *"Passionate about solving real-world problems through scalable and impactful technology."*
 >
 > — Sri Sai Sasank Dasam
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf/images/marquee.svg" width="100%"/>
 
 </div>
