@@ -1,0 +1,64 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#060d16"/>
+    </radialGradient>
+    <style>
+      .b { opacity: 0.15; }
+      .b1 { animation: f1 7s ease-in-out infinite; }
+      .b2 { animation: f2 9s ease-in-out infinite; }
+      .b3 { animation: f3 5.5s ease-in-out infinite; }
+      .b4 { animation: f4 8s ease-in-out infinite; }
+      .b5 { animation: f5 6s ease-in-out infinite; }
+      .b6 { animation: f6 10s ease-in-out infinite; }
+      .b7 { animation: f7 4.5s ease-in-out infinite; }
+      .b8 { animation: f8 7.5s ease-in-out infinite; }
+      .b9 { animation: f1 11s ease-in-out infinite; }
+      .b10{ animation: f3 6.5s ease-in-out infinite; }
+      @keyframes f1 { 0%,100%{transform:translateY(0)}  50%{transform:translateY(-20px)} }
+      @keyframes f2 { 0%,100%{transform:translateY(-8px)} 50%{transform:translateY(14px)} }
+      @keyframes f3 { 0%,100%{transform:translateY(5px)}  50%{transform:translateY(-16px)} }
+      @keyframes f4 { 0%,100%{transform:translateY(-12px)} 50%{transform:translateY(10px)} }
+      @keyframes f5 { 0%,100%{transform:translateY(0)}    50%{transform:translateY(-24px)} }
+      @keyframes f6 { 0%,100%{transform:translateY(6px)}  50%{transform:translateY(-14px)} }
+      @keyframes f7 { 0%,100%{transform:translateY(-4px)} 50%{transform:translateY(18px)} }
+      @keyframes f8 { 0%,100%{transform:translateY(2px)}  50%{transform:translateY(-20px)} }
+      .ring { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:0.3} 50%{opacity:0.7} }
+      .title { font: bold 34px 'Segoe UI',Arial,sans-serif; fill:#ffffff; letter-spacing:1px; }
+      .sub   { font: 15px  'Segoe UI',Arial,sans-serif; fill:#7ecfea; letter-spacing:0.5px; }
+      .hi    { font: bold 18px 'Segoe UI',Arial,sans-serif; fill:#00d4ff; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="180" rx="14" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#1a3a5c" stroke-width="0.4"/>
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#1a3a5c" stroke-width="0.4"/>
+  <line x1="300" y1="0" x2="300" y2="180" stroke="#1a3a5c" stroke-width="0.4"/>
+  <line x1="600" y1="0" x2="600" y2="180" stroke="#1a3a5c" stroke-width="0.4"/>
+
+  <!-- Floating Bubbles -->
+  <circle class="b b1"  cx="45"  cy="145" r="38" fill="#00c8ff"/>
+  <circle class="b b2"  cx="140" cy="30"  r="22" fill="#0099ee"/>
+  <circle class="b b3"  cx="240" cy="160" r="14" fill="#29b6f6"/>
+  <circle class="b b4"  cx="820" cy="40"  r="32" fill="#00bcd4"/>
+  <circle class="b b5"  cx="855" cy="145" r="20" fill="#4fc3f7"/>
+  <circle class="b b6"  cx="680" cy="165" r="26" fill="#0077cc"/>
+  <circle class="b b7"  cx="720" cy="20"  r="16" fill="#00acc1"/>
+  <circle class="b b8"  cx="550" cy="15"  r="12" fill="#00c8ff"/>
+  <circle class="b b9"  cx="350" cy="170" r="18" fill="#29b6f6"/>
+  <circle class="b b10" cx="480" cy="168" r="10" fill="#0099ee"/>
+
+  <!-- Glowing ring accent -->
+  <circle class="ring" cx="450" cy="90" r="75" fill="none" stroke="#00c8ff" stroke-width="0.8"/>
+  <circle class="ring" cx="450" cy="90" r="110" fill="none" stroke="#0066aa" stroke-width="0.5"/>
+
+  <!-- Text -->
+  <text x="450" y="62"  class="hi"    text-anchor="middle">👋  Hi, I'm</text>
+  <text x="450" y="108" class="title" text-anchor="middle">Sri Sai Sasank Dasam</text>
+  <text x="450" y="145" class="sub"   text-anchor="middle">🤖 AI Engineer  ·  📊 Data Scientist  ·  🧠 NLP Enthusiast  ·  📈 Fin-Tech Curious</text>
+</svg>
