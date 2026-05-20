@@ -40,64 +40,71 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
+*Aspiring Software & AI Engineer passionate about building intelligent, data-driven solutions that create real-world impact. I thrive at the intersection of **machine learning**, **NLP**, and **full-stack development**.*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎓 Degree | 📍 Location | 💡 GPA | 📧 Contact |
+|:---:|:---:|:---:|:---:|
+| B.Tech CSE @ BML Munjal University | Gurugram, Haryana 🇮🇳 | 7.95 / 10.0 | sasankdasam@gmail.com |
+
+</div>
+
+<br/>
+
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🧑 Who Am I?
+**🚀 Currently Working On**
 
-> 🎓 **B.Tech CSE** @ BML Munjal University *(2023 – Present)*
-> 
-> 📍 **Location:** Gurugram, Haryana, India
-> 
-> 💡 **GPA:** 7.95 / 10.0
-> 
-> 📧 **Email:** sasankdasam@gmail.com
+&nbsp;
 
----
+🟩 Building scalable **AI/ML systems**
 
-### 🚀 What I'm Doing
+🔍 Deep-diving into **NLP & Data Science**
 
-- 🟩 Building intelligent, scalable **AI/ML systems**
-- 🔍 Deep-diving into **NLP & Data Science**
-- 📈 Exploring **Financial Markets & Quant Analysis**
-- 🤝 Open to **internships, collaborations & projects**
+📈 Exploring **Financial Markets & Quant Analysis**
 
----
-
-### ⚡ Fun Facts
-
-- 🏏 Cricket Enthusiast
-- 🧩 Logic Puzzles Lover
-- 📰 Global News & Current Affairs follower
-- 📊 Tracks Financial Trends daily
+🤝 Open to **internships & collaborations**
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="2%"></td>
+<td width="33%" valign="top" align="center">
 
-```python
-class SriSaiSasank:
-  name       = "Sri Sai Sasank Dasam"
-  role       = "AI & Software Engineer"
-  university = "BML Munjal University"
-  gpa        = "7.95 / 10.0"
-  location   = "Gurugram, India 🇮🇳"
+**⚡ Fun Facts About Me**
 
-  skills = {
-    "AI/ML" : ["Python","NLP","ML"],
-    "Web"   : ["HTML","CSS","JS"],
-    "DB"    : ["MongoDB","SQL"],
-    "Tools" : ["Git","VS Code"],
-  }
+&nbsp;
 
-  def say_hi(self):
-    print("Thanks for visiting! 👋")
-    print("Let's build something")
-    print("amazing together 🚀")
+🏏 Cricket Enthusiast
 
-me = SriSaiSasank()
-me.say_hi()
-```
+🧩 Logic Puzzles Lover
+
+📰 Global News & Current Affairs
+
+📊 Tracks Financial Trends daily
+
+</td>
+<td width="2%"></td>
+<td width="30%" valign="top" align="center">
+
+**🌐 Languages I Speak**
+
+&nbsp;
+
+🐍 Python &nbsp; ☕ Java
+
+⚙️ C++ &nbsp; 🌐 JavaScript
+
+🗄️ SQL &nbsp; 📄 HTML/CSS
+
+🧠 Machine Language 😄
 
 </td>
 </tr>
