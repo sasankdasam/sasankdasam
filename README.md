@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BUBBLE HEADER SVG (avatar embedded inside) -->
-<img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/header.svg" width="100%" alt="Header"/>
+<img src="https://raw.githubusercontent.com/sasankdasam/sasankdasam/main/header (1).svg" width="100%" alt="Header"/>
 
 <br/>
 
