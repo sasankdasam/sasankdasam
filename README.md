@@ -87,8 +87,6 @@
 
 **🗣️ Languages & Goals**
 
-&nbsp;
-
 💬 Telugu — Native 
 💬 Hindi — Fluent 
 💬 English — Professional 
