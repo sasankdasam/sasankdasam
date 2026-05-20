@@ -90,9 +90,7 @@
 &nbsp;
 
 💬 Telugu — Native 
-
 💬 Hindi — Fluent 
-
 💬 English — Professional 
 
 &nbsp;
